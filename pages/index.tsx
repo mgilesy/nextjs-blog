@@ -31,7 +31,7 @@ export default function Home({
       </Head>
       <section className={utilStyles.headingMd}>
         <p>
-          Hi, I'm Mike. I am a software developer based in Sydney. Youcan
+          Hi, I'm Mike. I am a software developer based in Sydney. You can
           contact me on <a href="https://smh.com.au">Twitter</a>
         </p>
         <p>
